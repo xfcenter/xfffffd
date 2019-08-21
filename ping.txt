@@ -1,1 +1,3 @@
 http://gate.xf16899.com:8070/Ping
+http://gate.xf16899.com:8070/Ping
+http://gate.xf16899.com:8070/Ping
