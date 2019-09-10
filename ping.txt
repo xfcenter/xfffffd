@@ -1,2 +1,1 @@
 http://gate.xf16899.com:8070/Ping
-http://www.xf16899.com:8070/Ping
