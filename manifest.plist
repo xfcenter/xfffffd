@@ -1,0 +1,37 @@
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://download.xf16899.com/download/ios/xftest.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://download.xf16899.com/download/xfgame.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.happinesscenter.xfgame</string>
+				<key>bundle-version</key>
+				<string>2.0.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>幸福娱乐城</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
