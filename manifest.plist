@@ -9,7 +9,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://download.xf16899.com/download/ios/xftest.ipa</string>
+					<string>http://192.168.0.137:8080/xfgame.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
