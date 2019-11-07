@@ -9,7 +9,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.xf2588.com:5000/loadinstallpackage/dasdaafa/xfgame_1_X9K6L3H3SH_2.2.0.ipa</string>
+					<string>http://192.168.0.160:8080/signed.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
